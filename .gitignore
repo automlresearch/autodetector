@@ -1,0 +1,170 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+.backup_files/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+*.jpg
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+mmdet/version.py
+./data/
+.vscode
+.idea
+.DS_Store
+
+# custom
+.git
+core
+*.pkl
+*.pkl.json
+*.log.json
+.ipynb_checkpoints
+.github
+.dev_scripts
+.idea
+.backup_files
+./.git/objects/pack/pack-d5594a4b899e0ce74f31a375d5fe6fe92a3810b5.pack
+./.git/objects/pack/tmp_pack_VS0GIn
+./mmdet/ops/carafe/carafe_naive_ext.cpython-37m-x86_64-linux-gnu.so
+./mmdet/ops/carafe/carafe_ext.cpython-37m-x86_64-linux-gnu.so
+./mmdet/ops/masked_conv/masked_conv2d_ext.cpython-37m-x86_64-linux-gnu.so
+./mmdet/ops/roi_pool/roi_pool_ext.cpython-37m-x86_64-linux-gnu.so
+./mmdet/ops/roi_align/roi_align_ext.cpython-37m-x86_64-linux-gnu.so
+./mmdet/ops/nms/nms_ext.cpython-37m-x86_64-linux-gnu.so
+./mmdet/ops/sigmoid_focal_loss/sigmoid_focal_loss_ext.cpython-37m-x86_64-linux-gnu.so
+./mmdet/ops/dcn/deform_conv_ext.cpython-37m-x86_64-linux-gnu.so
+./mmdet/ops/dcn/deform_pool_ext.cpython-37m-x86_64-linux-gnu.so
+./build/temp.linux-x86_64-3.7/mmdet/ops/carafe/src/carafe_ext.o
+./build/temp.linux-x86_64-3.7/mmdet/ops/carafe/src/cuda/carafe_cuda.o
+./build/temp.linux-x86_64-3.7/mmdet/ops/carafe/src/cuda/carafe_naive_cuda.o
+./build/temp.linux-x86_64-3.7/mmdet/ops/carafe/src/carafe_naive_ext.o
+./build/temp.linux-x86_64-3.7/mmdet/ops/masked_conv/src/masked_conv2d_ext.o
+./build/temp.linux-x86_64-3.7/mmdet/ops/masked_conv/src/cuda/masked_conv2d_cuda.o
+./build/temp.linux-x86_64-3.7/mmdet/ops/roi_pool/src/roi_pool_ext.o
+./build/temp.linux-x86_64-3.7/mmdet/ops/roi_align/src/roi_align_ext.o
+./build/temp.linux-x86_64-3.7/mmdet/ops/nms/src/cpu/nms_cpu.o
+./build/temp.linux-x86_64-3.7/mmdet/ops/nms/src/cuda/nms_cuda.o
+./build/temp.linux-x86_64-3.7/mmdet/ops/nms/src/nms_ext.o
+./build/temp.linux-x86_64-3.7/mmdet/ops/sigmoid_focal_loss/src/sigmoid_focal_loss_ext.o
+./build/temp.linux-x86_64-3.7/mmdet/ops/dcn/src/deform_pool_ext.o
+./build/temp.linux-x86_64-3.7/mmdet/ops/dcn/src/cuda/deform_pool_cuda.o
+./build/temp.linux-x86_64-3.7/mmdet/ops/dcn/src/cuda/deform_conv_cuda.o
+./build/temp.linux-x86_64-3.7/mmdet/ops/dcn/src/deform_conv_ext.o
+./build/lib.linux-x86_64-3.7/mmdet/ops/carafe/carafe_naive_ext.cpython-37m-x86_64-linux-gnu.so
+./build/lib.linux-x86_64-3.7/mmdet/ops/carafe/carafe_ext.cpython-37m-x86_64-linux-gnu.so
+./build/lib.linux-x86_64-3.7/mmdet/ops/masked_conv/masked_conv2d_ext.cpython-37m-x86_64-linux-gnu.so
+./build/lib.linux-x86_64-3.7/mmdet/ops/roi_pool/roi_pool_ext.cpython-37m-x86_64-linux-gnu.so
+./build/lib.linux-x86_64-3.7/mmdet/ops/roi_align/roi_align_ext.cpython-37m-x86_64-linux-gnu.so
+./build/lib.linux-x86_64-3.7/mmdet/ops/nms/nms_ext.cpython-37m-x86_64-linux-gnu.so
+./build/lib.linux-x86_64-3.7/mmdet/ops/sigmoid_focal_loss/sigmoid_focal_loss_ext.cpython-37m-x86_64-linux-gnu.so
+./build/lib.linux-x86_64-3.7/mmdet/ops/dcn/deform_conv_ext.cpython-37m-x86_64-linux-gnu.so
+./build/lib.linux-x86_64-3.7/mmdet/ops/dcn/deform_pool_ext.cpython-37m-x86_64-linux-gnu.so
+./.backup_files/mmdetection code.tar.xz
+.backup_files/mmdetection code.tar.xz
+./tools/paper/
+tools/paper/
+work_dirs/
+mmdetection执行检测
+# Pytorch
+*.pth
+*.py~
+*.sh~
