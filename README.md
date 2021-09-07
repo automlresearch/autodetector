@@ -7,7 +7,7 @@ Self-trained detection detectors are implemented on small-scale Radar and Sonar 
 
 The above codes is implemented with [mmdetection2.0](https://github.com/open-mmlab/mmdetection).
 
-The SSDD dataset used in this paper could be downloaded at this page.
+The SSDD dataset used in this paper could be downloaded at [this page](https://pan.baidu.com/share/init?surl=bkg0jd0H9tV8w25gRO1c6A) (extraction code is "fyh0").
 
 The SCTD dataset constructed in this paper could be downloaded in the [repository created by Dr Mingqiang Ning](https://github.com/freepoet/SCTD)
 
