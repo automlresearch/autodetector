@@ -14,7 +14,7 @@ The SCTD dataset constructed in this paper could be downloaded in the [repositor
 
 ## Citation
 
-If you use the SCTD dataset, the code, or the benchmark in your research, please cite this our paper,
+If you use the SCTD dataset, the code, or the benchmark in your research, please cite our paper,
 
 ```
 @article{mmdetection,
